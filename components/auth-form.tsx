@@ -143,7 +143,5 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontWeight: '700',
     fontSize: 16,
-    width: '100%',
-    textAlign: 'center',
   },
 });
